@@ -3,11 +3,6 @@ def get_glass_height_mm(type):
     elif(type == 'B' or type == 'C'): return 88.0
     else: raise ValueError("This type does not exists")
 
-def get_glass_height_cm(type):
-    if(type == 'A'): return 8.30
-    elif(type == 'B' or type == 'C'): return 8.80
-    else: raise ValueError("This type does not exists")
-
 def center_crop(image, crop_width, crop_height):
     height, width, _ = image.shape
 
