@@ -7,4 +7,5 @@ This study focuses on developing a __non-intrusive method__ to estimate the liqu
   - __Healthcare and Nutrition:__ Monitoring fluid intake for medical applications.
   - __Smart Kitchens:__ Estimating liquid levels in smart cooking and IoT-enabled devices.
 
-To address this challenge, we began by creating a dataset of proper images and developed an intuitive initial approach, which we progressively refined by making adjustments based on the issues we encountered.
+Result examples:
+<img width="1581" height="454" alt="image" src="https://github.com/user-attachments/assets/fa559718-4316-40a1-8dc9-f855e02c96f8" />
