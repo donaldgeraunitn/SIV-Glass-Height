@@ -9,3 +9,5 @@ This study focuses on developing a __non-intrusive method__ to estimate the liqu
 
 Result examples:
 <img width="1581" height="454" alt="image" src="https://github.com/user-attachments/assets/fa559718-4316-40a1-8dc9-f855e02c96f8" />
+
+For a more thorough analysis including methodology, experimental results, and accuracy metrics, see the [technical report](./SIV_Glass_Height_Report.pdf).
